@@ -6,7 +6,7 @@ rrggbb-to-vtrgb
 
 <!--#echo json="package.json" key="description" -->
 Transform HTML-style color codes into three lines of comma-separated decimal
-number, suitable for vtrgb. (man 1 setvtrgb)
+numbers, suitable for vtrgb. (man 1 setvtrgb)
 <!--/#echo -->
 
 

@@ -1,6 +1,6 @@
 { "name": "rrggbb-to-vtrgb",
-  "version": "0.1.0",
-  "description": "Transform HTML-style color codes into three lines of comma-separated decimal number, suitable for vtrgb. (man 1 setvtrgb)",
+  "version": "0.1.1",
+  "description": "Transform HTML-style color codes into three lines of comma-separated decimal numbers, suitable for vtrgb. (man 1 setvtrgb)",
   "keywords": [],
 
   "author": "M.K. (https://github.com/mk-pmb)",
@@ -23,7 +23,7 @@
   "dependencies": {},
   "devDependencies": {
     "equal-pmb": "^0.1.24",
-    "nodemjs": "^0.1.8",
+    "nodemjs": "^0.1.13",
     "p-fatal": "^0.1.3",
     "usnam-pmb": "^0.2.5"
   },
